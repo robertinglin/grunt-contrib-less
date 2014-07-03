@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "less": "~1.7.2",
+    "less": "https://github.com/robertinglin/less.js/tarball/master",
     "chalk": "^0.4.0",
     "maxmin": "^0.1.0",
     "lodash": "^2.4.1",
